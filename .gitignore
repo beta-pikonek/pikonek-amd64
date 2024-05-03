@@ -130,3 +130,4 @@ pikonek/pytransform/*.c
 configs/pppoe.yaml
 configs/sqm.yaml
 configs/*.tcconfig.yaml
+pikonek/.DS_Store
